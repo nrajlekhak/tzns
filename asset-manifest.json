@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tzns/static/css/main.8a1fd0b4.css",
+    "main.js": "/tzns/static/js/main.d050f5b0.js",
+    "index.html": "/tzns/index.html",
+    "main.8a1fd0b4.css.map": "/tzns/static/css/main.8a1fd0b4.css.map",
+    "main.d050f5b0.js.map": "/tzns/static/js/main.d050f5b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a1fd0b4.css",
+    "static/js/main.d050f5b0.js"
+  ]
+}
